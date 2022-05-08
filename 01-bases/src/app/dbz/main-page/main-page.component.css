@@ -1,0 +1,10 @@
+
+.prueba{
+    margin: 1px;
+    left: 800px;
+}
+.btn{ 
+    border-radius: 7000px;
+    background-color: grey;
+    border-color: black;
+}
