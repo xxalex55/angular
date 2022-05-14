@@ -24,8 +24,7 @@ import { Personaje } from "../interfaces/dbz.interface";
       get personajes():Personaje[]{
           return [...this._personajes];
       }
-    constructor(){
-    }
+ 
     agregarPersonajes(  personaje:Personaje){
         this._personajes.push(personaje);
     }
